@@ -1,5 +1,5 @@
 name: photo_editor_app
-description: "Snap Style Camera & Photo Editor App"
+description: "SnapShot Pro - Next Gen Camera & AR Studio"
 publish_to: "none"
 version: 1.0.0+1
 
@@ -15,6 +15,7 @@ dependencies:
   path_provider: ^2.1.4
   permission_handler: ^11.3.1
   gal: ^2.3.1
+  shared_preferences: ^2.3.2
 
 dev_dependencies:
   flutter_test:
